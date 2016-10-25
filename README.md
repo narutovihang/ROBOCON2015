@@ -39,7 +39,7 @@ Codes and Intellectual property not present in this Repository:
 I hope this repository helps someone build a Robot.Apologies if it is a little unorganised.Cheers! 
 
 #Team Photograph
-
+![m'lady](team.jpg)
 
 
 
