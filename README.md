@@ -3,8 +3,8 @@ Codes of ROBOCON 2015
 
 It is a old repository of all the codes used by Team Kjsiet in Robocon 2015. We were a team of 26 people and I was given the honor of leading them.
 
-> What is Robocon?
-Simply put, it is the toughest Robotics contest in Asia at undergraduate level. In India nearly 100 teams participate every year.
+**What is Robocon?**
+>Simply put, it is the toughest Robotics contest in Asia at undergraduate level. In India nearly 100 teams participate every year.
 
 Robocon 2015: 
 The [Theme](https://www.youtube.com/watch?v=V0XEc4N8yvE) for Robocon 2015 was Robominton and the contesting teams were asked to build Robot's that play double's Badminton. 
@@ -26,7 +26,7 @@ Code's Present in this Repository:
 5)Interfacing with the Pneumatic drive systems
 6)Interfacing of the 2000PPR Rhino Motors
 7)Complete system Code(Minus the PID stabiliser for smoother movement)
-8)Other Miscelleanous stuff
+8)Lot of other useful stuff
 ```
 ```
 Codes and Intellectual property not present in this Repository:
@@ -36,7 +36,9 @@ Codes and Intellectual property not present in this Repository:
 4)Mechanical Designs
 ```
 
-I hope this repository helps someone build a Robot. Cheers! 
+I hope this repository helps someone build a Robot.Apologies if it is a little unorganised.Cheers! 
+
+#Team Photograph
 
 
 
