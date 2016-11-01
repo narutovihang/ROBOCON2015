@@ -4,12 +4,12 @@ Codes of ROBOCON 2015
 It is a old repository of all the codes used by Team Kjsiet in Robocon 2015. We were a team of 26 people and I was given the honor of leading them.
 
 **What is Robocon?**
->Simply put, it is the toughest Robotics contest in Asia at undergraduate level. In India nearly 100 teams participate every year.
+>Simply put, it is the toughest Robotics contest in Asia at the undergraduate level. In India nearly 100 teams participate every year.
 
 Robocon 2015: 
 The [Theme](https://www.youtube.com/watch?v=V0XEc4N8yvE) for Robocon 2015 was Robominton and the contesting teams were asked to build Robot's that play double's Badminton. 
 
-[Team KJSIET](https://www.somaiya.edu/kjsieit/Initiative/Robocon) was participating for the 3rd consecutive year. We do not have a mechanical department and we use this oppurtunity to understand mechanical design too along with Electronics and Programming.
+[Team KJSIET](https://www.somaiya.edu/kjsieit/Initiative/Robocon) was participating for the 3rd consecutive year. We do not have a mechanical department and we use this opportunity to understand mechanical design along with Electronics and Programming.
 
 **Performance of Team KJSIET Robocon: Rank: Joint 10th.This was our Best ever performance.Last two ranks:46th and 48th.**
 
